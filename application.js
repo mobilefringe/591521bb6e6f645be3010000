@@ -1,7 +1,5 @@
 /*Created 2015-01-15  by Andy*/
 
-console.log("Hello!!"); 
-
 function renderLayoutHours(container, template, collection){
     var item_list = [];
     var item_rendered = [];

@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
+    "appSecret": "lumos",
+    "pageAccessToken": "wingardium_leviosa",
+    "validationToken": "accio",
     "serverURL": ""
 }

@@ -37,7 +37,7 @@ LICENSE file in the root directory of this source tree.
 
       <div class="fb-send-to-messenger" 
         messenger_app_id='the_boy_who_lived'
-        page_id='PAGE_ID'
+        page_id='page_hp'
         data-ref="PASS_THROUGH_PARAM" 
         color="blue" 
         size="standard">
@@ -49,7 +49,7 @@ LICENSE file in the root directory of this source tree.
 
       <div class="fb-messengermessageus" 
         messenger_app_id='the_boy_who_lived'
-        page_id='PAGE_ID'
+        page_id='page_hp'
         color="blue"
         size="standard">
       </div>
